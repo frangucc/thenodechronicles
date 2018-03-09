@@ -38,15 +38,13 @@ Some big mistakes in our very recent past really sucked. There's consequences to
 
 It's messin up the whole West Coast. and N-O-B-O-D-Y's even talking about it!
 
-![](http://fukushimawatch.com/wp-content/uploads/2016/07/fukushima_radiation_nuclear_fallout_map.jpg)
-
-> AUTHOR NOTE: \_ I think about the teenager who is reading this bookn and what their generation must be up against. I think about the responsibility they will have at some point to shape the horizon - to fix all this "technical debt."
+![](http://fukushimawatch.com/wp-content/uploads/2016/07/fukushima_radiation_nuclear_fallout_map.jpg
 
 Check this out. The Hacker Way is a philosophy. It can act like a religion, and in the end, it's nothing more than a way of thinking shaped by nothing more than a collection of words and emotions, behaviors and attitudes. It contains the theory that we as a people, will not stand for bullshit.
 
-W-H-A-T T-H-E?
+NON: W-H-A-T T-H-E?
 
-If everything we do in life is dictated by words in our vocabulary \(the thoughts in our minds and what fascinates us\), then it might also be said that language and culture can shape our future. Then I must ask; is there any way we could come to know a more universal language of technology, something that integrates the culture, emotion, global state and technology, with problem spaces that are deeply important to our civilization.
+GOU: If everything we do in life is dictated by words in our vocabulary \(the thoughts in our minds and what fascinates us\), then it might also be said that language and culture can shape our future. Then I must ask; is there any way we could come to know a more universal language of technology, something that integrates the culture, emotion, global state and technology, with problem spaces that are deeply important to our civilization.
 
 ![](https://thumbs.mic.com/MmRjN2Q1YjliNSMvVVVINTRkM251YXhNYWVJejFxYjByOElrVFo0PS8yOHg1NDoxNDY5eDc4Ny8xMjgweDYyMC9maWx0ZXJzOnF1YWxpdHkoNzUpL2h0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9wb2xpY3ltaWMtaW1hZ2VzL2MwcHByY3RoMXNkY2NmajczcW9zZHl5aXlqcHV6eHJwbHp4NXdqc2JmZmpyeWxycGRyY2t0d3B3aXR0dXlkeWIuanBn.jpg)
 
@@ -58,7 +56,7 @@ But despite all the readily available inspiration and information, what motivate
 
 In case you're not following, in the end, what's happening is pretty simple. Technology is fairly new to humans. Apparently, modern humans have been running around this planet for 200,000 years without any of it. None of this. No phones, no google, no internet, no cars or tv's, no chips or radio waves, not even electric lights. But now, in just a fraction of that time, all those things exist.
 
-According to mainstream archaeology, we've existed as a human race for approximately 199,800 years without any modern technology. And in just 200 years, we used what we discovered with dire consequences. And there are a lot more people now.
+According to mainstream archaeology, we've existed as a human race for approximately thousands of years without any modern technology. And in just 200 years, we built all this... And there are a lot more people now, exponentially more Einsteins.
 
 ![](http://www.funbodytherapy.com/wp-content/uploads/2015/03/evolution-of-man-to-computer.jpg)
 
