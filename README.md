@@ -24,9 +24,9 @@ NON: Acquihire?
 
 GOU: I don't know why I bother with you. Maybe you are dumb.
 
-GOU: Bruh; Tesla, Facebook, AMZN and Alphabet - they're all investing in space travel; self sustinability.
+Bruh; Tesla, Facebook, AMZN and Alphabet - they're all investing in space travel; self sustinability.
 
-What type of \# $ % @ they on Gou?
+NON: What type of \# $ % @ they on Gou?
 
 ![](http://news.nationalgeographic.com/content/dam/news/2016/09/27/Elon-Musk-Mars-SpaceX/02-elon-musk-space-x-mars.jpg)
 
