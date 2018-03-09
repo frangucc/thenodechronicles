@@ -30,7 +30,7 @@ NON: What type of \# $ % @ they on Gou?
 
 ![](http://news.nationalgeographic.com/content/dam/news/2016/09/27/Elon-Musk-Mars-SpaceX/02-elon-musk-space-x-mars.jpg)
 
-You don't even want to know. Elon's on point. And he's baller.
+GOU: You don't even want to know. Elon's a baller.
 
 There always something M-E-S-S-E-D U-P going on with humans and tech.
 
