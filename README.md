@@ -16,13 +16,15 @@ Nikola hacked Edison too. He threatened his DC empire when he discovered alterna
 
 ![](https://s-media-cache-ak0.pinimg.com/736x/ae/ae/98/aeae9802c365c9120702d7907e0e96b7.jpg)
 
-"Tesla? A hacker? Bruh. This is really does sound like a movie."
+NON: "Tesla? A hacker? Bruh. This is really does sound like a movie."
 
-It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Now look what Elon Musk is up to. Tesla just acquired Solar City!
+It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Now look what Elon Musk is up to! He acquired Solar City, he's sending thousands of satellites to space, he's even making a power-pack for your home!
 
-Acquihire? No idiot. Seriously, I don't know why I bother with you. Dum dum.
+NON: Acquihire? 
 
-Bruh; Tesla, Facebook, AMZN and Alphabet - they're all investing in space travel; self sustinability.
+GOU: I don't know why I bother with you. Maybe you are dumb.
+
+GOU: Bruh; Tesla, Facebook, AMZN and Alphabet - they're all investing in space travel; self sustinability.
 
 What type of \# $ % @ they on Gou?
 
