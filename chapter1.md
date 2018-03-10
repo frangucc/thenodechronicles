@@ -4,9 +4,11 @@ THE FIRST CHAPTER
 
 > The Frank Discussion
 
-![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878073/damn-colors-bruh_a8o9ax.jpg)
+![](https://pbs.twimg.com/media/DX9g0ZBVAAAnt2c.jpg)
 
 What's all this mean tho Gou, not everyones a genius like you. And what's a Rosetta stone dammit?
+
+
 
 **Bruh. You're not listening.** What I'm telling you is like, giving you a **Rosetta Stone,** for figuring out high tech hacking.
 
