@@ -1,7 +1,9 @@
-
+![](/assets/Cover.jpg)
 VOLUME 1
 
 # THE HACKER WAY
+
+![](/assets/Turing-Face.jpg)
 
 Gou: Alan Turing was **L-I-T-E-R-A-L-L-Y** cracking the German Enigma when he discovered something that changed computing forever. One man and his love for math algos, pwnd the Nazi's.
 
@@ -12,6 +14,8 @@ Yup.
 Sound like a movie? Yeah. It's not.
 
 > Hacker is a term for both those who write code and those who exploit it. Even though these two groups of hackers have different goals, both groups use similar problem-solving techniques. Hacking is really just the act of finding a clever and counterintuitive solution to a problem.
+
+![](/assets/Tesla-Face.jpg)
 
 Nikola hacked Edison too. He threatened his DC empire when he discovered alternating current.
 
