@@ -1,9 +1,9 @@
-![](/assets/Cover.jpg)
+![](https://pbs.twimg.com/media/DX9u4HkUQAATino.jpg)
 VOLUME 1
 
 # THE HACKER WAY
 
-![](/assets/Turing-Face.jpg)
+![](https://pbs.twimg.com/media/DX9vJfEVwAALgrj.jpg)
 
 Gou: Alan Turing was **L-I-T-E-R-A-L-L-Y** cracking the German Enigma when he discovered something that changed computing forever. One man and his love for math algos, pwnd the Nazi's.
 
