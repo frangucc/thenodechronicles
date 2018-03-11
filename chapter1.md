@@ -54,7 +54,11 @@ Bruh, you don't want to just hack it, you need to own it. :p
 
 \[first emoji pack\]
 
+![](https://pbs.twimg.com/media/DX-Uy_tV4AASkeC.jpg)
+
 Tell me more about this stone.
+
+![](https://pbs.twimg.com/media/DX-TKOyVwAIhxb4.jpg)
 
 The stone was a hack written on a stone. It was **writen in Egyptian, Greek and Hyroglphs** at once so that anyone in the future could read what the **pharoah** had to say, but it also helped archeologists understand those ancient languages. The stone acts as a legend of sorts.
 
@@ -73,19 +77,18 @@ In addition to these **key schematic symbols**, I'm giving you all the rest of t
 
 Owning these cards is the key to becoming a hacker. Once you collect them all and understand them you can make some serious money.
 
+![](https://pbs.twimg.com/media/DX-VgvaU0AAn1Xl.jpg)
+
 Yeah, I even made an app so you can keep tabs on this stuff. It keeps track of what you know and gives you props and stuff when you POWN shit.
 
 Money????
 
 Yeah dude, Citrus Byte pays me $75 an hour to hack on iOS and Android apps.
 
+
 Is that where you get all that money?
 
 Yeah, from that and, my EGHHHEM, COUGH, bitminers.
-
-![](https://i.ytimg.com/vi/-ihMqEDs4B8/maxresdefault.jpg)
-
-\[suble clue on bitfarm - but easter eggish\]
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878026/symbols_hlwrtf.jpg)
 
