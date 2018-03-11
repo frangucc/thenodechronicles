@@ -1,4 +1,5 @@
 ![](https://pbs.twimg.com/media/DX9u4HkUQAATino.jpg)
+
 VOLUME 1
 
 # THE HACKER WAY
