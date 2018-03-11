@@ -32,7 +32,6 @@ Nikola hacked Edison too. He threatened his DC empire when he discovered alterna
 
 **NON:** "Tesla? A hacker? Bruh. This is really does sound like a movie."
 
-![](https://pbs.twimg.com/media/DFRkt3zU0AEnPXZ.jpg)
 **GOU:** It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Now look what Elon Musk is up to! He acquired Solar City, he's sending thousands of satellites to space, he's even making a power-pack for your home!
 
 **NON:** Acquihire? 
