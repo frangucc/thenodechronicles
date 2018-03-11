@@ -1,6 +1,6 @@
 ![](https://pbs.twimg.com/media/DX9u4HkUQAATino.jpg)
 
-VOLUME 1
+VOLUME 2
 
 # THE HACKER WAY
 ![](https://pbs.twimg.com/media/DX9vJfEVwAALgrj.jpg)
