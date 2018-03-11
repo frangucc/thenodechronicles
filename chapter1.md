@@ -8,7 +8,7 @@ THE FIRST CHAPTER
 
 What's all this mean tho Gou, not everyones a genius like you. And what's a Rosetta stone gosh darnit?
 
-
+![](https://pbs.twimg.com/media/DX-aG6oUMAAMQA-.jpg)
 
 **Bruh. You're not listening.** What I'm telling you is like, giving you a **Rosetta Stone,** for figuring out high tech hacking.
 
@@ -26,9 +26,9 @@ But I really want to know this stuff like you!
 
 **Yes,** that's good, because I can lead you to water but **I can't make you drink**.
 
-\[Never depict anything corny like a horse drinking water, but let's find a metaphor.. Hmm... got one, the sip from the CAP bottle being played with in the game of cap.\]
+![](https://pbs.twimg.com/media/DX-as_sVwAAAjsm.jpg)
 
-_Random Cast Dude or NodeBot Says:_ "Mark Zuck teaches the entire Facebook team the hacker way, which is all about having a true comprehesion of electrical engineering and computer science"
+"Mark Zuck teaches the entire Facebook team the hacker way, which is all about having a true comprehesion of electrical engineering and computer science"
 
 ![](http://cdn.torontolife.com/wp-content/uploads/2016/05/KaylaRocca-TorontoLife-FacebookCanada-9001-2000x1333.jpg)
 
