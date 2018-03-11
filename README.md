@@ -13,29 +13,38 @@ Yup.
 
 Sound like a movie? Yeah. It's not.
 
-> Hacker is a term for both those who write code and those who exploit it. Even though these two groups of hackers have different goals, both groups use similar problem-solving techniques. Hacking is really just the act of finding a clever and counterintuitive solution to a problem.
+![](https://pbs.twimg.com/media/DX-JDtbUMAATrSk.jpg)
 
-![](/assets/Tesla-Face.jpg)
+He was later persecuted for being gay. They chemically castrated him and made him crazy. Eventually, he was poisoned. No one really knows exactly how it all happened.
+
+
+
+> Hacker is a term for both those who write code and those who exploit it. Even though these two groups of hackers have different goals, both groups use similar problem-solving techniques. Hacking is really just the act of finding a clever and counterintuitive solution to a problem.
 
 Nikola hacked Edison too. He threatened his DC empire when he discovered alternating current.
 
+![](https://pbs.twimg.com/media/DX-K28EUQAAU2LY.jpg)
+
+
 ![](https://s-media-cache-ak0.pinimg.com/736x/ae/ae/98/aeae9802c365c9120702d7907e0e96b7.jpg)
 
-NON: "Tesla? A hacker? Bruh. This is really does sound like a movie."
+**NON:** "Tesla? A hacker? Bruh. This is really does sound like a movie."
 
-It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Now look what Elon Musk is up to! He acquired Solar City, he's sending thousands of satellites to space, he's even making a power-pack for your home!
+![](https://pbs.twimg.com/media/DFRkt3zU0AEnPXZ.jpg)
 
-NON: Acquihire? 
+**GOU:** It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Now look what Elon Musk is up to! He acquired Solar City, he's sending thousands of satellites to space, he's even making a power-pack for your home!
 
-GOU: I don't know why I bother with you. Maybe you are dumb.
+**NON:** Acquihire? 
+
+**GOU:** I don't know why I bother with you. Maybe you are dumb.
 
 Bruh; Tesla, Facebook, AMZN and Alphabet - they're all investing in space travel; self sustinability.
 
-NON: What type of \# $ % @ they on Gou?
+**NON:** What type of \# $ % @ they on Gou?
 
 ![](http://news.nationalgeographic.com/content/dam/news/2016/09/27/Elon-Musk-Mars-SpaceX/02-elon-musk-space-x-mars.jpg)
 
-GOU: You don't even want to know. Elon's a baller.
+**GOU:** You don't even want to know. Elon's a baller.
 
 There always something M-E-S-S-E-D U-P going on with humans and tech.
 
@@ -47,9 +56,9 @@ It's messin up the whole West Coast. and N-O-B-O-D-Y's even talking about it!
 
 Check this out. The Hacker Way is a philosophy. It can act like a religion, and in the end, it's nothing more than a way of thinking shaped by nothing more than a collection of words and emotions, behaviors and attitudes. It contains the theory that we as a people, will not stand for bullshit.
 
-NON: W-H-A-T T-H-E?
+**NON:** W-H-A-T T-H-E?
 
-GOU: If everything we do in life is dictated by words in our vocabulary \(the thoughts in our minds and what fascinates us\), then it might also be said that language and culture can shape our future. Then I must ask; is there any way we could come to know a more universal language of technology, something that integrates the culture, emotion, global state and technology, with problem spaces that are deeply important to our civilization.
+**GOU:** If everything we do in life is dictated by words in our vocabulary \(the thoughts in our minds and what fascinates us\), then it might also be said that language and culture can shape our future. Then I must ask; is there any way we could come to know a more universal language of technology, something that integrates the culture, emotion, global state and technology, with problem spaces that are deeply important to our civilization.
 
 ![](https://thumbs.mic.com/MmRjN2Q1YjliNSMvVVVINTRkM251YXhNYWVJejFxYjByOElrVFo0PS8yOHg1NDoxNDY5eDc4Ny8xMjgweDYyMC9maWx0ZXJzOnF1YWxpdHkoNzUpL2h0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9wb2xpY3ltaWMtaW1hZ2VzL2MwcHByY3RoMXNkY2NmajczcW9zZHl5aXlqcHV6eHJwbHp4NXdqc2JmZmpyeWxycGRyY2t0d3B3aXR0dXlkeWIuanBn.jpg)
 
@@ -191,4 +200,6 @@ After, Sir Tim Berners-Lee gives us the invention of the internet and protocols 
 Random Image
 
 ![](http://www.valuewalk.com/wp-content/uploads/2014/12/Robotic-Cheetah.jpg)
+
+
 

@@ -6,7 +6,7 @@ THE FIRST CHAPTER
 
 ![](https://pbs.twimg.com/media/DX9g0ZBVAAAnt2c.jpg)
 
-What's all this mean tho Gou, not everyones a genius like you. And what's a Rosetta stone dammit?
+What's all this mean tho Gou, not everyones a genius like you. And what's a Rosetta stone gosh darnit?
 
 
 
