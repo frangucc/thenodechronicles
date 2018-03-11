@@ -18,6 +18,8 @@ Yeah, but I'm not a math genius. I can't just learn this stuff like you, I'm not
 
 But I really want to know this stuff like you!
 
+![](https://pbs.twimg.com/media/DX-G3pSVQAEbaox.jpg)
+
 **How you going to** learn **applied mathematics or coding** if you can't COMPREHEND what I'm telling you? And I'm not that booksmart either, I'm just a _hustler._ Ummm.. my **my teacher say's I'm really great at "comprehension! Does that help?"**
 
 ![](http://acmac.uoc.gr/ICAM2013/img/ICAM2013_Banner.jpg)
@@ -45,6 +47,8 @@ Don't facebook employees make a ton of money?
 Bruh. They have the life.
 
 I'm in dude. I'm going to commit to this and see if I can hack it.
+
+![](https://pbs.twimg.com/media/DX-S0gVVQAAPSgs.jpg)
 
 Bruh, you don't want to just hack it, you need to own it. :p
 
