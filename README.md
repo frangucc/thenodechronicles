@@ -43,7 +43,7 @@ Some big mistakes in our very recent past really sucked. There's consequences to
 
 It's messin up the whole West Coast. and N-O-B-O-D-Y's even talking about it!
 
-![](http://fukushimawatch.com/wp-content/uploads/2016/07/fukushima_radiation_nuclear_fallout_map.jpg
+![](http://fukushimawatch.com/wp-content/uploads/2016/07/fukushima_radiation_nuclear_fallout_map.jpg)
 
 Check this out. The Hacker Way is a philosophy. It can act like a religion, and in the end, it's nothing more than a way of thinking shaped by nothing more than a collection of words and emotions, behaviors and attitudes. It contains the theory that we as a people, will not stand for bullshit.
 
