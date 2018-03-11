@@ -7,16 +7,18 @@ VOLUME 1
 
 **Gou:** Alan Turing was **L-I-T-E-R-A-L-L-Y** cracking the German Enigma when he discovered something that changed computing forever. One man and his love for math algos, pwnd the Nazi's.
 
+
+![](https://pbs.twimg.com/media/DFRkt3zU0AEnPXZ.jpg)
+
 Yup.
 
 ![](https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2013/07/dn23837-1_800.jpg)
 
 Sound like a movie? Yeah. It's not.
 
-![](https://pbs.twimg.com/media/DX-JDtbUMAATrSk.jpg)
-
 He was later persecuted for being gay. They chemically castrated him and made him crazy. Eventually, he was poisoned. No one really knows exactly how it all happened.
 
+![](https://pbs.twimg.com/media/DX-JDtbUMAATrSk.jpg)
 
 
 > Hacker is a term for both those who write code and those who exploit it. Even though these two groups of hackers have different goals, both groups use similar problem-solving techniques. Hacking is really just the act of finding a clever and counterintuitive solution to a problem.
@@ -31,7 +33,6 @@ Nikola hacked Edison too. He threatened his DC empire when he discovered alterna
 **NON:** "Tesla? A hacker? Bruh. This is really does sound like a movie."
 
 ![](https://pbs.twimg.com/media/DFRkt3zU0AEnPXZ.jpg)
-
 **GOU:** It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Now look what Elon Musk is up to! He acquired Solar City, he's sending thousands of satellites to space, he's even making a power-pack for your home!
 
 **NON:** Acquihire? 
