@@ -1,8 +1,6 @@
 Yeah, but you've been doing this stuff for a hot minute Gou. And isn't hacking bad? \[redundant\]
 
-Bro, **Tesla was a hacker**. Like, the maker of the cars? **Bruh,** will you shut up** for a second** and **listen**.
 
-**Nikola Tesla was hacking electricity** and Thomas Edisons **Direct Current** empire when he discovered one of the most important aspects of modern electricity. **Alternating Current. **
 
 Hackers are just people that don't want to accept bullshart as the norm, so they mess around and try to beat tech. They **are always trying to figure out the next move by learning from what's out there**. As a result, they help figure out what to **build next**. Or how to fix things so they can better benefit the **overall industry. **
 
