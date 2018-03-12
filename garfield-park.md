@@ -1,6 +1,9 @@
+
+![](https://cl.ly/1z1z0q1O0H1Z/tnc_stone.jpg)
+
 Yeah, but you've been doing this stuff for a hot minute Gou. And isn't hacking bad? \[redundant\]
 
-
+![](https://pbs.twimg.com/media/DX-OitWVMAEVSv9.jpg)
 
 Hackers are just people that don't want to accept bullshart as the norm, so they mess around and try to beat tech. They **are always trying to figure out the next move by learning from what's out there**. As a result, they help figure out what to **build next**. Or how to fix things so they can better benefit the **overall industry. **
 
@@ -33,21 +36,38 @@ Inspiration Photo for intro panels.
 
 \[DIAGRAM/IMAGE/ART - intro to MAP, finger points on a page to map or whiteboard. Map or Stone Map, or the stone is a place on this map... So far on the map we have - {Gous stone, the basement hq, the EE pyramids in an area, the OS land, the Coding building and Network - it's a very high level diagram for now, but you can tell it will be zoomed into later for deeper subjects. sneak in some other mystery - Dads dirty closet, Lilu's tree-house, the rabbi's temple, dr. winslows lab, ladybugs hideout, teslas corporation, zuck...}
 
+![](https://cl.ly/1b2M0p1m2Y2Q/tnc_5.jpg)
+
+Non: That what your boy Tesla was about?
+
 **If you understand electrcity,** **fields, forces and flows**, it becomes easier to **visualize** how the lowest level of the **science and tech works** - when it's **beyond the naked eye** and you're dealing with **binary and math.**
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878073/molecule_csquem.jpg)
 
-**So** I need to be a math geek?
+**So** I need to be a geek?
 
 **No, **but you **\*\*need to respect it and **make room for it.** A lot of math is done for you and not everyone has to understand **machine code** and **nyquist rates\*\* to build stuff.
 
+![](https://cl.ly/3O470Q2j172y/NC_03_300_Color.jpg)
+
+**Non:** That what got JP all P'd off?
+
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878071/boom_rye5oi.jpg)
 
-**But** if you wanna get into MIT, and you don't understand the basics of **Electromagnetism**, **current**, **frequency**, **key algorithms, etc.** you're not gonna get very far.
+**Gou:** Goof. Yeah, he was a D-I-S-R-U-P-T-O-R!!!
 
-**Like** the Big-O notation?
+But if you wanna get into MIT, and you don't understand the basics of **Electromagnetism**, **current**, **frequency**, **key algorithms, etc.** you're not gonna get very far.
+
+**Non:** Like the Big-O notation?
 
 **Will you stop!** That has nothing to do with what I'm talking about. But, well, yes, like the Big-O, but not in that example. Ughh,,.. Nevermind.
+
+
+![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917331/gou4.jpg)
+
+**Gou:** Dude, I'm done talking to you right now. I've got work to do. GET OUT OF MY ROOM!!!!
+
+
 
 Non: So all these **chips and machines** that make up our **hardware, these microprocessors, memory, motors, etc.** all basically take **voltage from power** sources and **translate them into information **or **motors** somehow?
 
@@ -143,3 +163,5 @@ The brain is a powerful thing. In the 10 years from 9-19, it could process as ma
 Let me make this easier on you.
 
 **Follow the stone.**
+
+![](https://cl.ly/1z1z0q1O0H1Z/tnc_stone.jpg)
