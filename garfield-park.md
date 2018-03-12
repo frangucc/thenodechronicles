@@ -1,4 +1,4 @@
-
+# GARFIELD PARK
 ![](https://cl.ly/1z1z0q1O0H1Z/tnc_stone.jpg)
 
 Yeah, but you've been doing this stuff for a hot minute Gou. And isn't hacking bad? \[redundant\]

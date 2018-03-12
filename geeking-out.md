@@ -1,8 +1,6 @@
----
 
-# This section is just plain crazy.
 
-> In my observations of millenials and generation z learners, I've observed a few things.
+# GEEKING OUT
 
 ![](https://cl.ly/0s42011Q0G0G/TNC_Banzi.jpg)
 
