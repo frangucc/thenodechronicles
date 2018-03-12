@@ -36,29 +36,15 @@ Enter _The Node Chronicles Book One, The Hacker Way._
 
 ![](https://s3.amazonaws.com/gamifyed/00_cover.jpg)
 
-The stone Gou Sokeyo creates contains a language of ideas and symbols called axioms. Axioms can be very simple, or contain a collection of other symbols or ideas that operate like a system. When prioritized in a certain order, they can be learned sequentially, but when rearranged, they can be experimented with. Each has a range of complexity, each typically has a connection to at least one other symbol. At face value, the symbols can be studied and learned from. When explored more forensically, they can be used to inspire new experiments and products. Symbols might also be things like; love, prosperity, earth and the word, prudent.
-
 Need you be reminded of the crazy stuff going on right now with VR/AR, Hololens, BioHacks, Data Science, AI, Bayesian Systems & Neural Networks and Higgs Boson? It's as if a new periodic table was formed right under our noses in the past 20 years and we're just learning how to use it.
 
 ![](https://winblogs.azureedge.net/devices/2015/11/HoloLens.png)
-
-Before we go too far, let's look at an example of how everyday people like you and me end up adding onto our planets runaway innovation curve.
-
-So here is an example of something I may ultimately contribute to the world \(granted it's a merely a novelty, unlike Williams wind turbine\). I want to make an AR Harry Potter Wand, that can beam huge bolts of lightning anywhere I point it in an augmented reality environment.
 
 I want to create a piece of scientific equipment, in the shape of a wizards wand, that can log movement from tiny IMU's within the stick and use real-time Kalman filtering to ultimately generate AR visualizations.
 
 ![](http://static5.businessinsider.com/image/53ebe4a26bb3f7ee1d1c3b48-1190-625/i-bought-a-47-interactive-harry-potter-wand-and-it-was-totally-worth-it.jpg)
 
-A project like this could take 2 years to make on ones own, but none the less, it would have only been made possible due to the words in my vocabulary, my imagination and the recent advancements in technology within my environment.
-
 ![](https://qph.ec.quoracdn.net/main-qimg-0b187374e72662f82fd65ef792ef5aa5-c?convert_to_webp=true)
-
-It's all quite magical, and that's sorta what this book does. It shows all the cool technologies and their connection to eachother.
-
-My recent stint with Harry Potter and awareness of Microsofts new product, Hololens, plus my fascination with making custom PCB's and expiraments with certain MEMS sensors all have me poised to create something totally off the wall that could be wildly awesome. Figuring it all it is the fun part. Digging through docs, ordering parts, working with experts on the minutia. Just pondering all the things I'd need to learn to pull this off excites me. The challenge alone is incredible.
-
-You're about learn more than the technology itself, but what roads some of the best inventors had to travel to get there.
 
 **Follow the Stone.**
 

@@ -17,9 +17,11 @@ Sound like a movie? Yeah. It's not.
 
 ![](https://pbs.twimg.com/media/DYGPsLRVQAA9F0P.jpg)
 
-He was later persecuted for being gay. They chemically castrated him and made him crazy. Eventually, he was poisoned. No one really knows exactly how it all happened.
+He was later persecuted for being gay. They chemically castrated him and made him crazy. 
 
 ![](https://pbs.twimg.com/media/DYGZmjSV4AAr9RU.jpg)
+
+Eventually, he was poisoned. No one really knows exactly how it all happened.
 
 ![](https://pbs.twimg.com/media/DX-JDtbUMAATrSk.jpg)
 

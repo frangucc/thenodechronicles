@@ -3,28 +3,70 @@
 ![](https://pbs.twimg.com/media/DYG_5z9VwAA9oZ-.jpg)
 
 
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384734/Gou_Sketch_z1dmps.jpg)
 
-And thus Colorado Springs March 1854 Tesla is trying out the form of human personal energy the idea if we could somehow tap into an earth street and obtain raw energy Basset fascinating indeed
+Gou's not your average 13 year old boy. He's rolling infact, but you would never know by the way he acts. He's an elit3, a self-tought hacker that can write code, make PCB boards and likes hacking science. 
 
-**Tesla** and the basics of electricity and circuitry with references to John Bardeen and Jack Kilby. Experiments with the Arduino and blinking lights, electricity, voltage, measuring voltage, the very basics come together here while Gou fires up some basic breadboards and circuits. Enter Banzi and demonstrations of the Uno or Nano with relation to Energy! Theoretically, this chapter gives us a neat little intro to energy, voltage, electricity, basic circuits and some simple Arduino test projects that include resistors, capacitors, voltage, flow, current - very basic and simple circuit patters, gates, logic, fields, electromagnatism and sensors like hall, etc. We also disect an Arduino and get into it's anatomy and GPIO. You'll walk away with a reference to electrical engineering symbols, ability to read basic schematics and a good understanding of fields, forces and flows. 
+His main interest is in Coils. He thinks we don't do a very good job with them as humans.
 
-**Chapter 3 \(**[**Neck Beards**](https://frangucc.gitbooks.io/gamifyed/content/remoting.html)**\) - **This chapter starts off with Ken and Dennis, creators of Unix at Bell Labs, inventing Unix on the PDP-11. It ends with Gou and his crew completely owning a Linux environment with all modern tools, which could have never happened without Unix.. ie, Bash, NPM, Node, Git, Terminals, tools, etc. Getting right into these meta tools \(Macro Axioms\) unlocks the power to do many other things later on, including installing different binaries, getting packages to run, getting Node.js running and we end by booting up some cool tools that users can instantly appreciate. You'll walk away with a good understanding of Linux and it's power, and knowledge of it's commands, file system, hierarchy and the basics of bash scripting, package management and installing virtually any package by reading it's readme.md while practicing getting up and running. The section wraps up with again, the running of a higher level, object or functional program \(node.js\) that ties everything together from a programs point of view.
+![](https://pbs.twimg.com/media/DYHb_KuVMAANLuT.jpg)
 
-**Chapter 4 \(**[**Network Access**](https://frangucc.gitbooks.io/gamifyed/content/connections.html)**\) - **
-After, Sir Tim Berners-Lee gives us the invention of the internet and protocols like TCP/IP/HTTP and we can segue into SSH and getting into our PI's and Arduinos remotely with SSH and VNC after playing around with some network tools that are just down right cool. We get our environments fully internet ready and run our first Terminal driven IOT test after being networked into our PI from a remote machine. Book ends on that note, giving kids the ability to do things most adults can't. This chapter gives us a deeper look into the internet, protocols, IP addresses and how data and packets move across wires, so that later, IOT options make that much more sense, including some basics on storage, ssh and remote controlling devices over different transport protocols ranging from WIFI to BLUETOOTH or GSM. By the end, we learn to execute remote tasks on our machines, connect our PI to our Arduino so that we can flash it with scripts and we get our blinking light experiment created by RUSHI \(the pi currency script\) setup whereby a little precursor to data is unveiled. Big data could become the 2nd volume as opposed to the 5th. All future sensor projects require data. You'll walk away with knowledge of ports, packets, protocols and servers, with the ability to demonstrate how you can hack into your machines, remotely execute programs and get your machine to talk and listen while your not there \(alias say='echo "$1" \| espeak -s 120 2&gt;/dev/null'\). Processes, networking tools, pinging, etc will all make sense and be in constant context. You'll finalize this chapter again by wrapping all this into a higher level program \(Python\) that will prime your eventual IOT experiences in future volumes and abroad.
+![](https://pbs.twimg.com/media/DYHdvnWU8AASmsG.jpg)
 
-**NOTE: **Each chapter has a blend of history, present day fiction built ontop the history and theory \( storytelling with the cast\), hardware and programming. The chapters \(and volumes\) all build on each-other until eventually, readers have a complete knowledge of EECS AI systems.
 
-**All future books will be based in the order:**
+Ok, let's start from the beginning. What did Tesla do and what do I need to know about him?
 
-**Volume 1 -** The Hacker Way \(in progress\)
+I like where your heads at.
 
-**Volume 2 -** Big Data \(need name\)
+So check it out....
 
-**Volume 3 -** Biomechanics \(need name\)
+**GOU:** If everything we do in life is dictated by words in our vocabulary \(the thoughts in our minds and what fascinates us\), then it might also be said that language and culture can shape our future. Then I must ask; is there any way we could come to know a more universal language of technology, something that integrates the culture, emotion, global state and technology, with problem spaces that are deeply important to our civilization.
 
-**Volume 4 -** Biosensing \(need name\)
+![](https://thumbs.mic.com/MmRjN2Q1YjliNSMvVVVINTRkM251YXhNYWVJejFxYjByOElrVFo0PS8yOHg1NDoxNDY5eDc4Ny8xMjgweDYyMC9maWx0ZXJzOnF1YWxpdHkoNzUpL2h0dHBzOi8vczMuYW1hem9uYXdzLmNvbS9wb2xpY3ltaWMtaW1hZ2VzL2MwcHByY3RoMXNkY2NmajczcW9zZHl5aXlqcHV6eHJwbHp4NXdqc2JmZmpyeWxycGRyY2t0d3B3aXR0dXlkeWIuanBn.jpg)
 
-**Volume 5 - **Robotics \(need name\)
+Among the teachings of science and technology, we include love, family and well being. It seems we can't get away from tech, and when learning it, we must not forget what it means to be human.
 
-Random Image
+But despite all the readily available inspiration and information, what motivates students to flock to Universities around the world that offer clean rooms, academic research programs and places where the toughest problems on the planet are being solved, like Argon and Fermi, is still somewhat of a mystery. My point? How we are each led to these places seems all too random.
+
+![](http://www.extremetech.com/wp-content/uploads/2015/06/higgs-2.jpg)
+
+In case you're not following, in the end, what's happening is pretty simple. Technology is fairly new to humans. Apparently, modern humans have been running around this planet for 200,000 years without any of it. None of this. No phones, no google, no internet, no cars or tv's, no chips or radio waves, not even electric lights. But now, in just a fraction of that time, all those things exist.
+
+According to mainstream archaeology, we've existed as a human race for approximately thousands of years without any modern technology. And in just 200 years, we built all this... And there are a lot more people now, exponentially more Einsteins.
+
+![](http://www.funbodytherapy.com/wp-content/uploads/2015/03/evolution-of-man-to-computer.jpg)
+
+A tremendous change occurred with the industrial revolution: whereas it had taken all of human history until around 1800 for world population to reach one billion, the second billion was achieved in only 130 years \(1930\), the third billion in less than 30 years \(1959\), the fourth billion in 15 years \(1974\), and the fifth billion in only 13 years \(1987\).
+
+During the 20th century alone, the population in the world has grown from 1.65 billion to 6 billion. In 1970, there were roughly half as many people in the world as there are now.
+Because of declining growth rates, it will now take over 200 years to double again.
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Population_curve.svg/350px-Population_curve.svg.png)
+
+That must be a lot on millennial and generation Z. At some point, you have to wonder, is it our very next generation that we will struggle to communicate with next?
+
+![](http://blogs.sap.com/innovation/files/2015/10/Wired-In.jpg)
+
+You also have to think; with so many people, all over the world, doing so many things, do we ever get lost? Do scientists communicate efficiently with other generations? Or is all our efforts real value hidden in more and more papers that no one is reading. Is crap lost in big fat books and massive online documents, or on Khan Academy?
+
+Dr. Louise Banks in the movie Arrival said, "Before we start throwing math problems at them, how about we try and talk to them first." A linguistics professor, she said this as she argued with her scientific counterpart sent out to greet the aliens. How one first might try and communicate with another intelligent life form is how I like to think I'm trying to communicate with teenagers reading this book.
+
+![](http://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2F569916f4-a73e-11e6-b67a-719634415da0.jpg?crop=998,561,2,65&resize=600)
+
+After all, you \(teenagers\) are the ones who will carry on and shape all future tools and realize all future science. Naturally, other generations are concerned. What's guiding you? What paths will you take? Are your brains decensitized by all of this? Is it too overwhelming?
+
+If an older generation were to develop a global language for communicating with the next generation, they would have to agree on certain things first. What are the first things we might all agree on? Will they be concerns for our planet? Will both generations agree on what could be holding humanity back? Is it all a zero sum game if we can't agree?
+
+The brain is a powerful thing. In the 10 years from 9-19, it could process as many as 200 million thoughts. It has tremendous work to do in filing those thought. Processing them, deciding where they go, disposing of some.
+
+![](http://news.berkeley.edu/wp-content/uploads/2016/04/Brain-Dictionary-750x500-OPTION-2.jpg)
+
+Let me make this easier on you.
+
+**Follow the stone.**
+
+
+![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878822/IMG_3287_xj3mdv.jpg)
+
+
+
