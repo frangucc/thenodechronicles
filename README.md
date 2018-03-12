@@ -25,20 +25,25 @@ He was later persecuted for being gay. They chemically castrated him and made hi
 
 > Hacker is a term for both those who write code and those who exploit it. Even though these two groups of hackers have different goals, both groups use similar problem-solving techniques. Hacking is really just the act of finding a clever and counterintuitive solution to a problem.
 
+![](https://pbs.twimg.com/media/DX-YAlaVoAASk8h.jpg)
+
 Nikola hacked Edison too. He threatened his DC empire when he discovered alternating current.
 
 ![](https://pbs.twimg.com/media/DX-K28EUQAAU2LY.jpg)
 
+![](https://cl.ly/1b2M0p1m2Y2Q/tnc_5.jpg)
 
-![](https://s-media-cache-ak0.pinimg.com/736x/ae/ae/98/aeae9802c365c9120702d7907e0e96b7.jpg)
+![](https://pbs.twimg.com/media/DYGkC85V4AA-dqO.jpg)
 
 **NON:** "Tesla? A hacker? Bruh. This is really does sound like a movie."
 
 **GOU:** It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Now look what Elon Musk is up to! He acquired Solar City, he's sending thousands of satellites to space, he's even making a power-pack for your home!
 
-![](https://pbs.twimg.com/media/DX-YAlaVoAASk8h.jpg)
+![](https://pbs.twimg.com/media/DX-b12tVAAAxpU8.jpg)
 
 **NON:** Acquihire? 
+
+
 
 **GOU:** I don't know why I bother with you. Maybe you are dumb.
 
