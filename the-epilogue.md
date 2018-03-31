@@ -1,20 +1,20 @@
-Stream Ownership
+War of Art
 
-War of art
+ Man you talking books?  [knocking the dust off dads old books]  
 
- Man you talking books?  [knocking the dust off dads old books]  Forget it, this is the only 1 u need for a real hookup [brothers getting hookups]. 
+Reading this book is the ultimate hook-up.
 
-The arch of the covenant is about to be found, don’t you watch SCI? [people on the hunt for the glowing arc]
+The arch of the covenant is about to be found, don’t you watch SCI?
 
-Prometheous? Bromethus? They win. [cleverly promethus logo associated with secret society, escaping anonymous’s watchful eye]
+Prometheous? They win.
 
-No, the FBI wins when the Lagina brothers disappear. [dumb look on their two faces while the fbi shuts them down]
+No, the FBI wins when the Lagina brothers disappear. 
 
-The historians are gonna be huge yo. Way bigger than the MIT monks.
+The historians are gonna be huge, way bigger than the MIT monks.
 
-Why did the MIT monks become monks? 
+Why did the MIT monks become monks in the first place Gou? What you know about them? 
 
-I know exactly why. They all grew neckbeards and got fat, from sitting around too much and not taking care. Eventually they all dialed-in, literally. It got pretty gross. Some even began eating super-foods. They became like Rich Mahee, and wore helmets with AR, MR, Neurtransmitters, Projecters, Vibrators, All sorts of stupid stuff. 
+I know exactly why. They all grew neckbeards and got fat, from sitting around too much and not taking care. They dialed-in, literally. It got pretty gross. Some even began eating super-foods called manna. They wore helmets and glasses with AR, MR, Neurtransmitters, Projecters, Vibrators, All sorts of stupid stuff. 
 
 Pretty cool though. 
 
