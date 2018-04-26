@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Stealth Mode](chapter1.md)
 * [Garfield Park](garfield-park.md)
+* [Stealth Mode](chapter1.md)
 * [Geeking Out](geeking-out.md)
 * [Neck Beards](neck-beards.md)
 * [The Dark Web](the-dark-web.md)

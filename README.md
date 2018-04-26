@@ -3,27 +3,63 @@
 VOLUME 1
 
 # THE HACKER WAY
+
 ![](https://pbs.twimg.com/media/DX9vJfEVwAALgrj.jpg)
 
-**Gou:** Alan Turing was **L-I-T-E-R-A-L-L-Y** cracking the German Enigma when he discovered something that changed computing forever. One man and his love for math algos, pwnd the Nazi's.
+**Gou:** Alan Turing was **L-I-T-E-R-A-L-L-Y** cracking the German Enigma when he discovered something that changed computing forever. One man and his love for algorithms, pwnd the Nazi's. He came up with the turing machine, a binary number system that could talk hardware.
 
 ![](https://pbs.twimg.com/media/DYGO4VwVQAA-CPb.jpg:large)
 
-Yup.
+**Non: **That's crazy.
 
 ![](https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2013/07/dn23837-1_800.jpg)
 
-Sound like a movie? Yeah. It's not.
+**Gou: **Sound like a movie? Yeah. It's not.
+
+His algorithm could beat any encryption at the time. It's a surprisingly simple concept. But super hard to implement.
+
+This is how he originally described it. 
+
+![](http://www.turing.org.uk/turing/pi5/code.gif)
+
+**Non: **How's it work? What it do Gou?
+
+Who could understand that Gou? That almost looks like machine code.
+
+**Gou:** More like the game of life. 
+
+![](http://www.math.cornell.edu/~lipa/mec/banner.png)
+
+**Non: **What that do? Tell me, you're the genius.  
+ [![](/assets/node-turing.jpg)](https://www.youtube.com/watch?v=dNRDvLACg5Q)**Gou: **Youtube it. There are plenty of ways you can get one running. 
+
+**Non:** Break it down for me. 
 
 ![](https://pbs.twimg.com/media/DYGPsLRVQAA9F0P.jpg)
 
-He was later persecuted for being gay. They chemically castrated him and made him crazy. 
+**Non: **I'm reading up on him.
 
+Damn. It says he was later persecuted for being gay. They chemically castrated him and made him crazy.
+
+Nazi bastards.  
 ![](https://pbs.twimg.com/media/DYGZmjSV4AAr9RU.jpg)
 
-Eventually, he was poisoned. No one really knows exactly how it all happened.
+**Gou: **Eventually, he was poisoned. No one really knows exactly how it all happened, but he left us something that forever changed the  trajectory of the entire human race. A lot of AI stuff talks about state machines, and classifiers and so on.
+
+**Non: **the block was hot.  
+
 
 ![](https://pbs.twimg.com/media/DX-JDtbUMAATrSk.jpg)
+
+**Gou: **There's no greater feeling than seeing your algos live, up and running, doing work. I had to learn pointers before I could figure all this stuff out. There were a few things I learned, that made other things a lot more clear. Knowing how everything works together is the first step.
+
+**Non: **so how does it all work?  
+ [![](/assets/TURING-MACHINE-ON-ARDUINO.jpg)](https://www.youtube.com/watch?v=y4gzPpYSkiU)  
+**Non:** Do work son.
+
+**Gou: **You're so annoying... Get out of my room.
+
+I said, _**G - E - T - O - U - T  !**_
 
 > Hacker is a term for both those who write code and those who exploit it. Even though these two groups of hackers have different goals, both groups use similar problem-solving techniques. Hacking is really just the act of finding a clever and counterintuitive solution to a problem.
 
@@ -41,11 +77,20 @@ Nikola hacked Edison too. He threatened his DC empire when he discovered alterna
 
 **GOU:** It took us almost 100 years to realize we were killing our planet with fossil fuels before we took solar power and electric vehicles seriously. Now look what Elon Musk is up to! He acquired Solar City, he's sending thousands of satellites to space, he's even making a power-pack for your home!
 
+The dude was on something. I think he thought the entire earth was rigged with wireless electricity thousands of years ago, and that we just didn't know hot to tap into it.
+
+![](https://arcanumdeepsecrets.files.wordpress.com/2010/06/wireless.jpg)
+
+So where we at now?
+
+I dunno. If wireless electricity ever were available, right from the air, almost all devices current method of consuming power would have to change. All their interfaces and circuitry would have to change.
+
+Not only that, we could do stuff we couldn't do before. Like what?
+
+I haven't decided, but look what these two freaks are doing in Brooklyn. With the right coils,  
 ![](https://pbs.twimg.com/media/DX-b12tVAAAxpU8.jpg)
 
-**NON:** Acquihire? 
-
-
+**NON:** Acquihire?
 
 **GOU:** I don't know why I bother with you. Maybe you are dumb.
 
@@ -74,8 +119,4 @@ Check this out. The Hacker Way is a philosophy. It can act like a religion, and 
 **NON:** W-H-A-T T-H-E?
 
 ![](https://pbs.twimg.com/media/DX-Q0x0UQAAwsjF.jpg)
-
-
-
-
 
