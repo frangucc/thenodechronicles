@@ -16,11 +16,13 @@ Unix - It was developed back in 1969 by AT&T employees working at Bell Labs. Lin
 
 The history of Unix dates back to the mid-1960s when the Massachusetts Institute of Technology, AT&T Bell Labs, and General Electric were jointly developing an experimental time sharing operating system called Multics for the GE-645 mainframe. Multics introduced many innovations, but had many problems.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg/1920px-Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg/1920px-Ken_Thompson_%28sitting%29_and_Dennis_Ritchie_at_PDP-11_%282876612463%29.jpg)![](https://pbs.twimg.com/media/DFRZYYvV0AAMgGl.jpg)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ee/Pdp-11-40.jpg)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Version_7_Unix_SIMH_PDP11_Emulation_DMR.png)
+
+![](https://pbs.twimg.com/media/DFRkt3zU0AEnPXZ.jpg)
 
 ![](http://sebastien.kirche.free.fr/ordinos/dec/pdp11/pdp11_002.jpg)
 
@@ -155,7 +157,7 @@ The hacks in this chapter are about getting into networks such as our own, acces
 
 > This is an important step in working with modern technology. Get root acces and control of the machines, their IP's, possibly SSH acess, VNC access, access to the code editors, etc.
 
-**Segway to some functional stuff...  
+**Segway to some functional stuff...      
 **
 
 Ping is the most basic tool we use to check connectivity. We also use arp to check the local broadcast domain and the arp resolution table. traceroute\(linux\)/tracert\(windows\) is used to check the path to the destination host. “mtr” is a powerful tool to view the network part for a longer period of time, usually installed as an additional package. Windows version of mtr is also available, even a portable version. One more useful tool comes mostly of out the box is nslookup \(windows and linux\)  and dig for linux; they are very useful troubleshooting identifying dns related investigation. “whois” is one more tool useful to find out more in some ip or domain name, owner, contact authority, as number etc. Last but not the least netstat available both in windows and linux is a useful tool to find out the local network status easily. A follow the link for a detail tutorial on how to use these basic tools.
@@ -192,15 +194,16 @@ Goals for chapter at this point...
 
 * Understand all the relevant protocols and their history
 * Get to TCP/IP/HTTP/SSH and give examples in technical and non-technical ways
-* 
-| Technical Takeaways |
-| --- |
-| TCP/IP |
-| HTTP |
-| NETSTAT & others |
-| Identify all the network tools that come with linix |
-| Understanding packets |
-| Understanding SSH |
+* | Technical Takeaways |
+  | --- |
+  | TCP/IP |
+  | HTTP |
+  | NETSTAT & others |
+  | Identify all the network tools that come with linix |
+  | Understanding packets |
+  | Understanding SSH |
 
 Turing and the invention of the FSM and modern varations of turing machines. This gets us to the point where we learn about binary, machine code, classifiers, algorithms, compilers, memory, stacks, heaps, etc. We get into the lowest level science of computers possibly then bring you back up high level so you don't have to re-invent the wheel or know too much of the low-level stuff. IE so you can use higher level language to abstract to do cool stuff \(ie do you really need to know all the deets about garbage collection?\), yes, enough to know what's really going on under the hood but not too much. There are many experiments and tests that can teach us about this and we will start by running them on our laptops in a fool-proof, simple to setup environment, before we even get into the PI. Once setup with some tools and an editor, we will dissect a PI and get into the anatomy of how they work, it's processor and eventually boot it and run some benchmark, memory and overclocking hacks. You'll ultimately walk away with a really good understanding of the tenants of computer sciences, how programs work and with the ability to execute your own scripts from your laptop or right from the PI using it's peripherals. It's the hello world chapter to computer science with some deep dives into low level computing and it finishes with the writing of a high level program, an intro to object oriented programs \(C program\) and a hello world script that takes full advantage and demonstrates the low level stuff at work.
+
+![](https://pbs.twimg.com/media/C5U3PJ8XUAA_dpY.jpg)
 

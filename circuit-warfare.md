@@ -30,7 +30,17 @@ Gou's not your average 13 year old boy. He's rolling infact, but you would never
 
 His main interest is in Coils. He thinks we don't do a very good job with them as humans.
 
-![](https://pbs.twimg.com/media/DYHb_KuVMAANLuT.jpg)![](/assets/node-8.jpg)![](/assets/node-9.jpg)![](/assets/node-11.jpg)![](/assets/node-13.jpg)
+![](https://pbs.twimg.com/media/DYHb_KuVMAANLuT.jpg)![](/assets/node-8.jpg)![](/assets/node-9.jpg)![](https://pbs.twimg.com/media/CrcceTDWYAAYml_.jpg)![](https://pbs.twimg.com/media/CrccLt2XgAIXKKo.jpg)![](/assets/node-11.jpg)
+
+![](/assets/node-11.jpg)
+
+![](/assets/node-11.jpg)
+
+![](/assets/node-11.jpg)
+
+![](/assets/node-11.jpg)
+
+![](/assets/node-11.jpg)![](/assets/node-13.jpg)
 
 **GOU:** If everything we do in life is dictated by words in our vocabulary \(the thoughts in our minds and what fascinates us\), then it might also be said that language and culture can shape our future. Then I must ask; is there any way we could come to know a more universal language of technology, something that integrates the culture, emotion, global state and technology, with problem spaces that are deeply important to our civilization.
 

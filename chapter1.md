@@ -38,6 +38,8 @@ I'm in dude. I'm going to commit to this and see if I can hack it.
 
 Bruh, you don't want to just hack it, you need to own it. :p
 
+![](https://pbs.twimg.com/media/C6qWq3vWsAE7mGs.jpg)
+
 \[first emoji pack\]
 
 ![](https://pbs.twimg.com/media/DX-Uy_tV4AASkeC.jpg)
@@ -69,9 +71,6 @@ Yeah, I even made an app so you can keep tabs on this stuff. It keeps track of w
 
 Money????
 
-  
-
-
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917335/gou5.jpg)
 
 Yeah dude, Citrus Byte pays me $75 an hour to hack on iOS and Android apps.
@@ -84,12 +83,7 @@ Yeah, from that and, my EGHHHEM, COUGH, bitminers.
 
 **I'm gonna give you a similar stone right now, that will act as a legend for deciphering this stuff, it even has some "glyphs" of it's own.** It will help you always follow and **understand this stuff**, or **guide you**. If you follow the stone, you will **become an EECS major. **
 
-  
-
-
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917321/gou2.jpg)
-
-
 
 curl -v \[contentful\)
 

@@ -2,7 +2,7 @@ CHAPTER 2
 
 # GARFIELD PARK
 
-![](https://pbs.twimg.com/media/DX9g0ZBVAAAnt2c.jpg)
+![](https://pbs.twimg.com/media/DX9g0ZBVAAAnt2c.jpg)![](https://pbs.twimg.com/media/DYHSYxUVMAANpja.jpg)
 
 Yeah, but you've been doing this stuff for a hot minute Gou. And isn't hacking bad? \[redundant\]
 
@@ -28,8 +28,7 @@ Non: That what your boy Tesla was about?
 
 **So** I need to be a geek?
 
-**No, **but you **\*\*need to respect it and **make room for it.** A lot of math is done for you and not everyone has to understand **machine code** and **nyquist rates\*\* to build stuff.  
-
+**No, **but you **\*\*need to respect it and **make room for it.** A lot of math is done for you and not everyone has to understand **machine code** and **nyquist rates\*\* to build stuff.
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917331/gou4.jpg)
 
@@ -39,7 +38,7 @@ Non: So all these **chips and machines** that make up our **hardware, these micr
 
 **Yeah, sorta. **
 
-Let's fire up a Raspberry Pi Zero, the worlds smallest computer, and learn about it's parts. **                    
+Let's fire up a Raspberry Pi Zero, the worlds smallest computer, and learn about it's parts. **                          
 **![](/assets/node-pi-zero.jpg)
 
 **Check it.** Basically, you need to know about** electricity and chips,** how they work, and then you need to know how to** put an OS on them **so you can **control them or write pograms to control them**. When you **write the programs**, that's when you'll study **object oriented or functional software. **
@@ -86,5 +85,8 @@ Gou: **Kan-yeezy** bruh. Don't dis Kankye. He's so **baller**.
 
 !\[\]\(/assets/'.jpg\)
 
-![](https://pbs.twimg.com/media/DX-P76QUQAACnS2.jpg)
+![](https://pbs.twimg.com/media/DX-P76QUQAACnS2.jpg)  
+![](https://pbs.twimg.com/media/DAuXrrxXkAA5CHk.jpg)
+
+![](https://pbs.twimg.com/media/DX9kiJCVMAAGGUw.jpg:large)
 

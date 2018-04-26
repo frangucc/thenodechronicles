@@ -125,6 +125,8 @@ The dude was on something. I think he thought the entire earth was rigged with w
 
 Not only that, we could do stuff we couldn't do before. Like what?
 
+![](https://pbs.twimg.com/media/DYHW1H9VQAAr7mS.jpg)
+
 I haven't decided, but look what these two freaks are doing in Brooklyn. I think some day someones gonna challenge the entire binary system, thus the turing system might become obsolete and moores law will go away.
 
 **Non: **So what are you saying Gou? Sounds like psuedo science, and that you don't really know know what your talking about? It sounds like a bunch of crap.  
@@ -149,9 +151,11 @@ I haven't decided, but look what these two freaks are doing in Brooklyn. I think
 
 There always something M-E-S-S-E-D U-P going on with humans and tech.
 
-![](/assets/node-elon.jpg)
+![](/assets/node-elon.jpg)![](https://pbs.twimg.com/media/DYGlYvvUQAAQRej.jpg)
 
 Some big mistakes in our very recent past really sucked. There's consequences to everything, sometimes, it's unfair - look at nuclear energy; this G-O-S-H-D-A-R-N science is making the planet sick! It's poisoning our land and oceans!!!! Damn you Fukishima.
+
+![](https://pbs.twimg.com/media/DFRSWDVUwAEtjeS.jpg)
 
 It's messin up the whole West Coast. and N-O-B-O-D-Y's even talking about it!
 

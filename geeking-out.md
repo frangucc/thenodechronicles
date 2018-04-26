@@ -38,3 +38,7 @@ I want to create a piece of scientific equipment, in the shape of a wizards wand
 
 ![](http://www.valuewalk.com/wp-content/uploads/2014/12/Robotic-Cheetah.jpg)
 
+![](https://pbs.twimg.com/media/C2alaKPXcAEoXuX.jpg)
+
+![](https://pbs.twimg.com/media/C6RbaWAXEAE5WVo.jpg)
+
