@@ -1,18 +1,18 @@
+CHAPTER 6
+
 # CIRCUIT WARFARE
 
 ![](https://pbs.twimg.com/media/DYG_5z9VwAA9oZ-.jpg)
 
-
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384734/Gou_Sketch_z1dmps.jpg)
 
-Gou's not your average 13 year old boy. He's rolling infact, but you would never know by the way he acts. He's an elit3, a self-tought hacker that can write code, make PCB boards and likes hacking science. 
+Gou's not your average 13 year old boy. He's rolling infact, but you would never know by the way he acts. He's an elit3, a self-tought hacker that can write code, make PCB boards and likes hacking science.
 
 His main interest is in Coils. He thinks we don't do a very good job with them as humans.
 
 ![](https://pbs.twimg.com/media/DYHb_KuVMAANLuT.jpg)
 
 ![](https://pbs.twimg.com/media/DYHdvnWU8AASmsG.jpg)
-
 
 Ok, let's start from the beginning. What did Tesla do and what do I need to know about him?
 
@@ -38,7 +38,7 @@ According to mainstream archaeology, we've existed as a human race for approxima
 
 A tremendous change occurred with the industrial revolution: whereas it had taken all of human history until around 1800 for world population to reach one billion, the second billion was achieved in only 130 years \(1930\), the third billion in less than 30 years \(1959\), the fourth billion in 15 years \(1974\), and the fifth billion in only 13 years \(1987\).
 
-During the 20th century alone, the population in the world has grown from 1.65 billion to 6 billion. In 1970, there were roughly half as many people in the world as there are now.
+During the 20th century alone, the population in the world has grown from 1.65 billion to 6 billion. In 1970, there were roughly half as many people in the world as there are now.  
 Because of declining growth rates, it will now take over 200 years to double again.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Population_curve.svg/350px-Population_curve.svg.png)
@@ -65,8 +65,5 @@ Let me make this easier on you.
 
 **Follow the stone.**
 
-
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878822/IMG_3287_xj3mdv.jpg)
-
-
 

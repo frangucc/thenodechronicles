@@ -1,4 +1,4 @@
-
+CHAPTER 3
 
 # GEEKING OUT
 
@@ -28,7 +28,7 @@ Learning Computer and Electric Science is no different. I suspect the next gener
 
 And we must accept that it could take years for a bright mind to discover their calling, and that right after high school or college, millenials might not be that concerned with settling down in the way previous generations had been. Eventually, those who are led to this will make their way.
 
-![](https://edgerton.mit.edu/sites/default/files/styles/gallery_featured/public/media/MIT%20Robotics%20Team%20at%20work%20in%20Area%2051.jpg?itok=ItZrOUSe)
+![](https://edgerton.mit.edu/sites/default/files/styles/gallery_featured/public/media/MIT Robotics Team at work in Area 51.jpg?itok=ItZrOUSe)
 
 So rather than aimlessly stack scientific concepts and experiments one after another, directly on top of each other, this book elaborates on the universal language and emotion around the science, and on how those same feelings are ultimately responsible for what we might choose to do in this industry.
 
@@ -49,3 +49,4 @@ I want to create a piece of scientific equipment, in the shape of a wizards wand
 **Follow the Stone.**
 
 ![](http://www.valuewalk.com/wp-content/uploads/2014/12/Robotic-Cheetah.jpg)
+
