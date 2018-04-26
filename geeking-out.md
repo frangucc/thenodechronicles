@@ -1,14 +1,10 @@
 CHAPTER 3
 
-# GEEKING OUT
+GEEKING OUT![](/assets/node-ada.jpg)
 
-![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917321/gou2.jpg)
+![](/assets/node-lilu.jpg)![](/assets/node-lilu-pop.jpg)What typically drives anyone, millenial or not, is: wants, needs and desires. It's also often observed that **discipline** is driven by pressure, **success** by gratification, **careers** by challenge and **passion** by love and appreciation.
 
-![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917335/gou5.jpg)
-
-What typically drives anyone, millenial or not, is: wants, needs and desires. It's also often observed that **discipline** is driven by pressure, **success** by gratification, **careers** by challenge and **passion** by love and appreciation.
-
-![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917324/gou3.jpg)
+![](/assets/node-vero.jpg)
 
 Take for example, the 15 year old boy Malawian, William Kamkwamba, who after reading a book called Using Energy, decided to create a makeshift wind turbine at his family's house in East Africa using blue gum trees, bicycle parts, and materials collected in a local scrapyard.
 

@@ -149,6 +149,8 @@ I haven't decided, but look what these two freaks are doing in Brooklyn. I think
 
 There always something M-E-S-S-E-D U-P going on with humans and tech.
 
+![](/assets/node-elon.jpg)
+
 Some big mistakes in our very recent past really sucked. There's consequences to everything, sometimes, it's unfair - look at nuclear energy; this G-O-S-H-D-A-R-N science is making the planet sick! It's poisoning our land and oceans!!!! Damn you Fukishima.
 
 It's messin up the whole West Coast. and N-O-B-O-D-Y's even talking about it!
@@ -230,7 +232,5 @@ I think you should start here \(even before you make a turing machine. [Here's m
 
 Let's fire up a Raspberry PI and get a Python shell and write a small script. ![](/assets/node-console.jpg)![](/assets/node-terminals.jpg)![](/assets/node-node.jpg)![](/assets/node-33.jpg)
 
-![](https://cl.ly/1z1z0q1O0H1Z/tnc_stone.jpg)
-
-![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384943/again_bjy1p5.jpg)
+![](https://cl.ly/1z1z0q1O0H1Z/tnc_stone.jpg)![](/assets/node-influencers.jpg)![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384943/again_bjy1p5.jpg)
 

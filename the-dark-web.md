@@ -4,7 +4,12 @@ CHAPTER 5
 
 This is a story about a society who once grew so creative and so intelligent that it visualized its way into the future. What was once the wildest of our collective imaginations, was becoming reality.
 
-![](/assets/node-7.jpg)
+![](/assets/node-7.jpg)  
+
+
+![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917324/gou3.jpg)
+
+
 
 But still, we lacked intelligent energy. And still, we were often, our own worst enemy.
 
@@ -39,8 +44,6 @@ By now, Elon Musk was sending trainloads of people to Mars. They were living in 
 ![](/assets/berners-lee_resize_md.jpg)
 
 For now, for the people who were stuck on earth, we had to make the most of it. And that meant inventing. The data showed that intelligent children had 50x more chances of surviving in the future.
-
-
 
 The cities got crazy. The planet was very different than it was just 20 years ago. Intelligent people flocked to new places, while other towns were taken over, by people from other places.
 
