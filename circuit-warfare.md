@@ -1,24 +1,36 @@
+CHAPTER 6
+
 # CIRCUIT WARFARE
 
 ![](https://pbs.twimg.com/media/DYG_5z9VwAA9oZ-.jpg)
 
+![](https://images.techhive.com/images/idge/imported/imageapi/2015/01/14/18/1007-nobel-3-100553152-gallery.idge.jpg)
+
+John Bardeen + Shockley
+
+That invention right there changed everything my dude.
+
+It looks Egyptian. LOL.
+
+![](https://www.dsprelated.com/blogimages/RickLyons/Fairchild_figure2.JPG)
+
+Naji dude these guys were gangster.
+
+![](http://www.famousinventors.org/images/john-bardeen.jpg)
+
+If you combine what Turing & Cloude Shannon did with what these Electronics dudes did the Neckbeards built ontop of this crap, all the premise for all our computers, phones and modern software programs
+
+![](http://images.computerhistory.org/siliconengine/1947-1-3.jpg)
+
+![](/assets/Pasted image at 2017_07_27 01_24 PM.png)
 
 ![](http://res.cloudinary.com/dzryfxssm/image/upload/v1474384734/Gou_Sketch_z1dmps.jpg)
 
-Gou's not your average 13 year old boy. He's rolling infact, but you would never know by the way he acts. He's an elit3, a self-tought hacker that can write code, make PCB boards and likes hacking science. 
+Gou's not your average 13 year old boy. He's rolling infact, but you would never know by the way he acts. He's an elit3, a self-tought hacker that can write code, make PCB boards and likes hacking science.
 
 His main interest is in Coils. He thinks we don't do a very good job with them as humans.
 
-![](https://pbs.twimg.com/media/DYHb_KuVMAANLuT.jpg)
-
-![](https://pbs.twimg.com/media/DYHdvnWU8AASmsG.jpg)
-
-
-Ok, let's start from the beginning. What did Tesla do and what do I need to know about him?
-
-I like where your heads at.
-
-So check it out....
+![](https://pbs.twimg.com/media/DYHb_KuVMAANLuT.jpg)![](/assets/node-8.jpg)![](/assets/node-9.jpg)![](/assets/node-11.jpg)![](/assets/node-13.jpg)
 
 **GOU:** If everything we do in life is dictated by words in our vocabulary \(the thoughts in our minds and what fascinates us\), then it might also be said that language and culture can shape our future. Then I must ask; is there any way we could come to know a more universal language of technology, something that integrates the culture, emotion, global state and technology, with problem spaces that are deeply important to our civilization.
 
@@ -38,7 +50,7 @@ According to mainstream archaeology, we've existed as a human race for approxima
 
 A tremendous change occurred with the industrial revolution: whereas it had taken all of human history until around 1800 for world population to reach one billion, the second billion was achieved in only 130 years \(1930\), the third billion in less than 30 years \(1959\), the fourth billion in 15 years \(1974\), and the fifth billion in only 13 years \(1987\).
 
-During the 20th century alone, the population in the world has grown from 1.65 billion to 6 billion. In 1970, there were roughly half as many people in the world as there are now.
+During the 20th century alone, the population in the world has grown from 1.65 billion to 6 billion. In 1970, there were roughly half as many people in the world as there are now.  
 Because of declining growth rates, it will now take over 200 years to double again.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Population_curve.svg/350px-Population_curve.svg.png)
@@ -64,9 +76,4 @@ The brain is a powerful thing. In the 10 years from 9-19, it could process as ma
 Let me make this easier on you.
 
 **Follow the stone.**
-
-
-![](http://res.cloudinary.com/dzryfxssm/image/upload/v1475878822/IMG_3287_xj3mdv.jpg)
-
-
 

@@ -1,14 +1,8 @@
-
+CHAPTER 3
 
 # GEEKING OUT
 
-![](https://cl.ly/0s42011Q0G0G/TNC_Banzi.jpg)
-
-Millenials are wicked fast on technology. They use shortcuts, find information out quickly and are incredibly omnivorous in how they learn, but they also fall into different types of traps than older generations expect them to, and they often take a lot of blame for that. They value learning deeply over money more so than any prior generation, yet they deal with life differently than we do, and other generations have a hard time understanding that. They don't get it.
-
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917321/gou2.jpg)
-
-As an example, they are texted to, not called. Facetimed, not visited. They are pushed but would rather be pulled. They get their news differently, make their decisions their own way, and so on. They value friend time like any other generation, and doing stuff, but in terms of education and careers, they compete in their own ways.
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917335/gou5.jpg)
 
@@ -28,7 +22,7 @@ Learning Computer and Electric Science is no different. I suspect the next gener
 
 And we must accept that it could take years for a bright mind to discover their calling, and that right after high school or college, millenials might not be that concerned with settling down in the way previous generations had been. Eventually, those who are led to this will make their way.
 
-![](https://edgerton.mit.edu/sites/default/files/styles/gallery_featured/public/media/MIT%20Robotics%20Team%20at%20work%20in%20Area%2051.jpg?itok=ItZrOUSe)
+![](https://edgerton.mit.edu/sites/default/files/styles/gallery_featured/public/media/MIT Robotics Team at work in Area 51.jpg?itok=ItZrOUSe)
 
 So rather than aimlessly stack scientific concepts and experiments one after another, directly on top of each other, this book elaborates on the universal language and emotion around the science, and on how those same feelings are ultimately responsible for what we might choose to do in this industry.
 
@@ -49,3 +43,4 @@ I want to create a piece of scientific equipment, in the shape of a wizards wand
 **Follow the Stone.**
 
 ![](http://www.valuewalk.com/wp-content/uploads/2014/12/Robotic-Cheetah.jpg)
+
