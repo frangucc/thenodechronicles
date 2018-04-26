@@ -77,3 +77,5 @@ Let me make this easier on you.
 
 **Follow the stone.**
 
+![](/assets/node-art-2.jpg)
+
