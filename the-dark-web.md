@@ -4,12 +4,9 @@ CHAPTER 5
 
 This is a story about a society who once grew so creative and so intelligent that it visualized its way into the future. What was once the wildest of our collective imaginations, was becoming reality.
 
-![](/assets/node-7.jpg)  
-
+![](/assets/node-7.jpg)
 
 ![](https://d13yacurqjgara.cloudfront.net/users/104173/screenshots/2917324/gou3.jpg)
-
-
 
 But still, we lacked intelligent energy. And still, we were often, our own worst enemy.
 
@@ -54,4 +51,6 @@ Gou had sent bots down two yeas prior to make a map. Lilu had the maps on her ph
 Gou was working on a new, peer to peer method of serving the internet. His powerful RF chips could transmit data for up to 2 miles, through any building or structure, and it was block chain based, which meant that people, not satellites, served as miniature nodes for communicating. Beacons were small and cheap also, and helped peers forward on the signals.
 
 He's using a PI to connect to an Arduino to control his customized RF chip. His signal is strong and they've been using it to fly their drowns. He's got range up to 2 miles.
+
+![](/assets/node-cover2.jpg)
 

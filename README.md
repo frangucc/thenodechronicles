@@ -204,6 +204,8 @@ His first programming language was PHP. He used it with MySQL to build Facebook 
 
 He recommends Python now though, for those just getting started.
 
+![](/assets/node-code-2.jpg)![](/assets/node-code.jpg)
+
 Here are some of the basic programming constructs you'd have to learn to make a basic program.
 
 I think you should start here \(even before you make a turing machine. [Here's my python cheat sheet.](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_all.pdf) You could download it.  

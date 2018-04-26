@@ -1,6 +1,4 @@
-CHAPTER 3
-
-GEEKING OUT![](/assets/node-ada.jpg)
+CHAPTER 3![](/assets/node-ada.jpg)
 
 ![](/assets/node-lilu.jpg)![](/assets/node-lilu-pop.jpg)What typically drives anyone, millenial or not, is: wants, needs and desires. It's also often observed that **discipline** is driven by pressure, **success** by gratification, **careers** by challenge and **passion** by love and appreciation.
 
