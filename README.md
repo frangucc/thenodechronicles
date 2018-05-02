@@ -58,20 +58,19 @@ Who could understand that Gou? That almost looks like machine code.
 ![](https://pbs.twimg.com/media/DYGPsLRVQAA9F0P.jpg)
 
 
-```
-A behaviour tree is a finite state machine. Consider the process of "making a sandwich."
 
-In a behaviour tree, you perform the actions "get first slice of bread," "get filling," and "get second slice of bread." 
 
-In an FSM, you have the states NO_BREAD, EMPTY_BREAD, and OPEN_FACE. 
+>A behaviour tree is a finite state machine. Consider the process of "making a sandwich."
 
-NO_BREAD -> "get first slice of bread" 
-EMPTY_BREAD -> "get filling"
-OPEN_FACE -> "get second slice of bread" 
+>In a behaviour tree, you perform the actions "get first slice of bread," "get filling," and "get second slice of bread." 
 
-They're the same damn thing. Use whichever one feels more natural to you.
-```
+>In an FSM, you have the states NO_BREAD, EMPTY_BREAD, and OPEN_FACE. 
 
+>NO_BREAD -> "get first slice of bread" 
+>EMPTY_BREAD -> "get filling"
+>OPEN_FACE -> "get second slice of bread" 
+
+>They're the same damn thing. Use whichever one feels more natural to you.
 
 
 **Non: **I'm reading up on him.
