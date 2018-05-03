@@ -9,5 +9,5 @@
 * [Circuit Warfare](circuit-warfare.md)
 * [The Epilogue](the-epilogue.md)
 * [The Dump](the-dump.md)
-* CRISPR
+* [CRISPR](crispr.md)
 
