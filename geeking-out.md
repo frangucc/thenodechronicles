@@ -4,6 +4,12 @@ CHAPTER 3![](/assets/node-ada.jpg)
 
 ![](/assets/node-vero.jpg)
 
+
+
+
+
+
+
 Take for example, the 15 year old boy Malawian, William Kamkwamba, who after reading a book called Using Energy, decided to create a makeshift wind turbine at his family's house in East Africa using blue gum trees, bicycle parts, and materials collected in a local scrapyard.
 
 ![](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxKswNW2ZSJGsAbUIww-lZQ8jpqm2JZTuYZCdPohPRKwoGBQwF)
