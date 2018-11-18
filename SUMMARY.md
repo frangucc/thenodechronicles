@@ -1,6 +1,6 @@
 # Summary
 
-* [Day One](prologue.md)
+* [Day One](dayone.md)
 * [Introduction](README.md)
 * [Stealth Mode](chapter1.md)
 * [Garfield Park](garfield-park.md)
