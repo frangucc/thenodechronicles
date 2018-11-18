@@ -1,0 +1,1 @@
+![](/assets/gou-stone-4.jpg)
