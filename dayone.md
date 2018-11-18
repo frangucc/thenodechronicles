@@ -11,8 +11,6 @@ Unfortunately, the World as we knew it had become a very difficult place to live
 
 ![](/assets/screen-non-gou-tnc.jpg)
 
-
-
 As the turbulent technology era struck, a certain schitzophrenia took over the people, and ultimately, humans grew less sufficient and mentally weak. It was still unclear if society would come together and prevail, or if the civilization as we know it, would fall. 
 
 
