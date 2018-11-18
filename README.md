@@ -7,7 +7,6 @@ VOLUME 1
 ![](https://pbs.twimg.com/media/DX9vJfEVwAALgrj.jpg)
 
 
-
 **Gou:** Alan Turing was **L-I-T-E-R-A-L-L-Y** cracking the German Enigma when he discovered the basis of the modern day computer. This dude and his love for math, owned the Nazi's. The algorithm he created helped British intelligence read secret messages the Nazi's were using to terrorize the planet. True story. All of this actually happened.
 
 His hack saved millions of lives in WWII, yet somehow, he ended up getting moved on by his own ignorant government, or so they say.
