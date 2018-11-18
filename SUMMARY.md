@@ -1,6 +1,6 @@
 # Summary
 
-* [Prologue](prologue.md)
+* [Day One](prologue.md)
 * [Introduction](README.md)
 * [Stealth Mode](chapter1.md)
 * [Garfield Park](garfield-park.md)
@@ -10,5 +10,4 @@
 * [Circuit Warfare](circuit-warfare.md)
 * [The Epilogue](the-epilogue.md)
 * [The Dump](the-dump.md)
-* Prologue
 

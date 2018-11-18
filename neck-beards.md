@@ -4,7 +4,6 @@ CHAPTER 4
 
 Dude look at these neck beards.
 
-![](https://upload.wikimedia.org/wikipedia/commons/3/36/Ken_n_dennis.jpg)
 
 Unix - It was developed back in 1969 by AT&T employees working at Bell Labs. Linux came about in either 1983 or 1984 or 1991, depending upon who's holding the knife. The GNU operating system was announced in 1983 by Richard Stallman and started in 1984, while the Linux kernel came about in 1991 courtesy of Linus Torvalds.Mar 24, 2008
 
