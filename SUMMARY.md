@@ -10,4 +10,5 @@
 * [Circuit Warfare](circuit-warfare.md)
 * [The Epilogue](the-epilogue.md)
 * [The Dump](the-dump.md)
+* [The Jargon File](the-jargon-file.md)
 
